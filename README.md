@@ -1,15 +1,14 @@
-📄 GitHub README.md
-📌 Project Title
+# 📌 Project Title
 
 Cricket Analytics SQL Case Study – Match, Team & Player Performance Insights
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project is a SQL-based analytical case study focused on evaluating cricket match outcomes, team performance, and individual player contributions. The assignment simulates real business-style analytical questions commonly asked in data analyst interviews, requiring structured thinking, clean SQL logic, and performance-based evaluation.
 
 The analysis answers 21 complex problem statements covering batting, bowling, fielding, match results, consistency, impact scoring, and ranking using SQL.
 
-📌 Business Objective
+### 📌 Business Objective
 
 The objective of this assignment is to:
 
@@ -21,7 +20,7 @@ Evaluate match competitiveness and winning margins
 
 Demonstrate advanced SQL querying skills used in real-world analytics roles
 
-📌 Dataset Description
+#### 📌 Dataset Description
 
 The dataset includes structured cricket data with:
 
@@ -33,7 +32,7 @@ Team participation and outcomes
 
 Player roles (batsman, bowler, all-rounder, etc.)
 
-📌 Key Questions Solved
+## 📌 Key Questions Solved
 
 This case study answers questions such as:
 
@@ -55,7 +54,7 @@ Ranking players using window functions
 
 Cumulative and running impact analysis by match date
 
-📌 Skills & Concepts Demonstrated
+## 📌 Skills & Concepts Demonstrated
 
 Core SQL Skills
 
@@ -83,7 +82,7 @@ Impact score modeling
 
 Ranking and comparative performance analysis
 
-📌 Impact Score Logic
+## 📌 Impact Score Logic
 
 To evaluate overall player contribution, an Impact Score was calculated as:
 
@@ -96,7 +95,7 @@ Runs × 1.5
 
 Only players who participated in at least 3 matches were included to ensure fairness and statistical reliability.
 
-📌 What I Have Done in This Assignment
+## 📌 What I Have Done in This Assignment
 
 Translated business-style analytical questions into optimized SQL queries
 
@@ -110,7 +109,7 @@ Structured queries in a clear, readable, and interview-ready format
 
 Focused on decision-making insights, not just query output
 
-📌 Why This Project Is Relevant for MNC Data Analyst Roles
+## 📌 Why This Project Is Relevant for MNC Data Analyst Roles
 
 Mirrors real interview SQL case studies
 
@@ -123,13 +122,13 @@ Highlights experience with performance evaluation and ranking logic
 ATS-friendly keywords:
 SQL, Data Analysis, Window Functions, CTE, Aggregation, Business Insights
 
-📌 Tools Used
+## 📌 Tools Used
 
 SQL (MySQL / SQL Server Management Studio 21 / PostgreSQL compatible syntax)
 
 Google Colab Notebook (for structured query presentation)
 
-📌 How to Use
+## 📌 How to Use
 
 Clone the repository
 
@@ -139,6 +138,6 @@ Run queries on a compatible SQL database
 
 Interpret results for business insights
 
-📌 Conclusion
+## 📌 Conclusion
 
 This project demonstrates structured data analysis using SQL to evaluate performance, consistency, and impact in a sports dataset. The approach emphasizes accuracy, clarity, and meaningful metric design to support data-driven insights.
