@@ -8,7 +8,7 @@ This project is a SQL-based analytical case study focused on evaluating cricket 
 
 The analysis answers 21 complex problem statements covering batting, bowling, fielding, match results, consistency, impact scoring, and ranking using SQL.
 
-### 📌 Business Objective
+## 📌 Business Objective
 
 The objective of this assignment is to:
 
@@ -20,7 +20,7 @@ Evaluate match competitiveness and winning margins
 
 Demonstrate advanced SQL querying skills used in real-world analytics roles
 
-#### 📌 Dataset Description
+## 📌 Dataset Description
 
 The dataset includes structured cricket data with:
 
@@ -91,8 +91,7 @@ Runs × 1.5
 + Catches × 10  
 + Stumpings × 15  
 + Run Outs × 10
-
-
+  
 Only players who participated in at least 3 matches were included to ensure fairness and statistical reliability.
 
 ## 📌 What I Have Done in This Assignment
@@ -108,19 +107,6 @@ Ensured data accuracy and fairness using participation thresholds
 Structured queries in a clear, readable, and interview-ready format
 
 Focused on decision-making insights, not just query output
-
-## 📌 Why This Project Is Relevant for MNC Data Analyst Roles
-
-Mirrors real interview SQL case studies
-
-Demonstrates ability to handle complex analytical requirements
-
-Shows structured problem-solving and metric design
-
-Highlights experience with performance evaluation and ranking logic
-
-ATS-friendly keywords:
-SQL, Data Analysis, Window Functions, CTE, Aggregation, Business Insights
 
 ## 📌 Tools Used
 
